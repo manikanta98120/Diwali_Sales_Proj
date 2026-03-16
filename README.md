@@ -1,11 +1,10 @@
 PROJECT DESCRIPTION
-_______________________________________________________________________________
 This project analyzes Diwali sales data using Python to understand customer purchasing behavior during the festival season. The dataset is cleaned and analyzed to find useful insights about customers, sales, and product categories.
 
 The project uses data analysis and visualization techniques to identify patterns such as which gender, age group, state, and occupation contribute most to sales.
+_______________________________________________________________________________
 
 TOOLS AND LIBRERIES USED
-_______________________________________________________________________________
 
 >Python
 >Pandas
@@ -14,11 +13,10 @@ _______________________________________________________________________________
 >Seaborn
 >Jupyter Notebook
 
+_______________________________________________________________________________
 
 
 STEPS PERFORMED
-_______________________________________________________________________________
-
 
 1.Imported the dataset.
 
@@ -27,10 +25,11 @@ _______________________________________________________________________________
 3.Performed Exploratory Data Analysis (EDA).
 
 4.Created visualizations to understand sales trends.
+_______________________________________________________________________________
 
 
 ANALYSIS DONE
-_______________________________________________________________________________
+
 
 1.Sales analysis based on Gender
 
@@ -43,10 +42,10 @@ _______________________________________________________________________________
 5.Occupation-based sales analysis
 
 6.Product category sales analysis
+_______________________________________________________________________________
 
 
 KEY INSIGHTS
-_______________________________________________________________________________
 
 
 >Most purchases were made by women customers.
@@ -56,8 +55,8 @@ _______________________________________________________________________________
 >Certain states generated higher orders and revenue.
 
 >Some product categories had higher demand during Diwali.
+_______________________________________________________________________________
 
 CONCLUSION
-_______________________________________________________________________________
 
 This analysis helps understand customer behavior and sales patterns during the Diwali festival, which can help businesses plan better marketing strategies.

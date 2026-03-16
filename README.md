@@ -1,57 +1,63 @@
-Project Description
-
+PROJECT DESCRIPTION
+_______________________________________________________________________________
 This project analyzes Diwali sales data using Python to understand customer purchasing behavior during the festival season. The dataset is cleaned and analyzed to find useful insights about customers, sales, and product categories.
 
 The project uses data analysis and visualization techniques to identify patterns such as which gender, age group, state, and occupation contribute most to sales.
 
-Tools and Libraries Used
+TOOLS AND LIBRERIES USED
+_______________________________________________________________________________
 
-Python
+>Python
+>Pandas
+>NumPy
+>Matplotlib
+>Seaborn
+>Jupyter Notebook
 
-Pandas
 
-NumPy
 
-Matplotlib
+STEPS PERFORMED
+_______________________________________________________________________________
 
-Seaborn
 
-Jupyter Notebook
+1.Imported the dataset.
 
-Steps Performed
+2.Cleaned the data by removing unnecessary columns and handling missing values.
 
-Imported the dataset.
+3.Performed Exploratory Data Analysis (EDA).
 
-Cleaned the data by removing unnecessary columns and handling missing values.
+4.Created visualizations to understand sales trends.
 
-Performed Exploratory Data Analysis (EDA).
 
-Created visualizations to understand sales trends.
+ANALYSIS DONE
+_______________________________________________________________________________
 
-Analysis Done
+1.Sales analysis based on Gender
 
-Sales analysis based on Gender
+2.Sales analysis based on Age Group
 
-Sales analysis based on Age Group
+3.State-wise sales analysis
 
-State-wise sales analysis
+4.Marital status analysis
 
-Marital status analysis
+5.Occupation-based sales analysis
 
-Occupation-based sales analysis
+6.Product category sales analysis
 
-Product category sales analysis
 
-Key Insights
+KEY INSIGHTS
+_______________________________________________________________________________
 
-Most purchases were made by women customers.
 
-The 26–35 age group contributed more to sales.
+>Most purchases were made by women customers.
 
-Certain states generated higher orders and revenue.
+>The 26–35 age group contributed more to sales.
 
-Some product categories had higher demand during Diwali.
+>Certain states generated higher orders and revenue.
 
-Conclusion
+>Some product categories had higher demand during Diwali.
+
+CONCLUSION
+_______________________________________________________________________________
 
 This analysis helps understand customer behavior and sales patterns during the Diwali festival, which can help businesses plan better marketing strategies.
